@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://neumorswarm.github.io/blog/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neumorswarm.github.io/categories/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neumorswarm.github.io/tags/hippocampus/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neumorswarm.github.io/blog/2020/11/03/brain-encodes-others/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neumorswarm.github.io/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neumorswarm.github.io/categories/neuroscience/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neumorswarm.github.io/tags/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neumorswarm.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://neumorswarm.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://neumorswarm.github.io/news/</loc>
+  </url>
+  
+  <url>
+    <loc>https://neumorswarm.github.io/research/</loc>
+  </url>
+  
+  <url>
+    <loc>https://neumorswarm.github.io/videos/</loc>
+  </url>
+  
+</urlset>

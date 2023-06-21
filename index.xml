@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NeuromorphicSWARM Project | for Collective Robots</title>
+    <link>https://neumorswarm.github.io/</link>
+    <description>Recent content on NeuromorphicSWARM Project | for Collective Robots</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neumorswarm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How the brain encodes the spatial position of others ?</title>
+      <link>https://neumorswarm.github.io/blog/2020/11/03/brain-encodes-others/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neumorswarm.github.io/blog/2020/11/03/brain-encodes-others/</guid>
+      <description>SOCIAL PLACE CELLS For social animals, such as bats and rats, tracking the position of a conspecific is important for social interactions such as observational learning. Much previous research has described how hippocampal place cells encode one&amp;rsquo;s own spatial location; however, the neuronal basis for encoding the position of another is unknown. Two new papers(Danjo et al., Omer et al.) identify so-called social place cells : neurons in the dorsal CA1 region (dCA1) of the hippocampus in bats and in rats that encode the position of an observed conspecific.</description>
+    </item>
+    
+    <item>
+      <title>ABOUT</title>
+      <link>https://neumorswarm.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://neumorswarm.github.io/about/</guid>
+      <description>NeuromorphicSWARM PROJECT: Brain-inspired Swarm Perception, Awareness and Navigation for Autonomous Collective Robots  For social animals, such as bats and rats, as well as knowing self location, being able to recognize the position of others in space is a crucial skill for purposes of hunting, escaping a predator, social interactions, observational learning, etc. Decades of research on the mammalian hippocampal formation has revealed a set of spatial neurons that represent self-position and orientation, including place cells, grid cells, head-direction cells, and border/boundary cells.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://neumorswarm.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://neumorswarm.github.io/contact/</guid>
+      <description>Please feel free to contact us: yangchuang[at]nuaa.edu.cn, yang_ch126[at]126.com
+Or fill in your contact information and suggestions!</description>
+    </item>
+    
+    <item>
+      <title>NEWS</title>
+      <link>https://neumorswarm.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://neumorswarm.github.io/news/</guid>
+      <description> 2020.02.14 &amp;gt; &amp;gt; My paper &amp;ldquo;Brain-inspired navigation technology integrating perception and action decision: a review and outlook&amp;rdquo; is highlighted by Acta Aeronautica et Astronautica Sinica on its WeChat and China&amp;rsquo;s Study.
+  </description>
+    </item>
+    
+    <item>
+      <title>RESEARCH</title>
+      <link>https://neumorswarm.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://neumorswarm.github.io/research/</guid>
+      <description>WORKS PRODUCED AS A RESULT OF THIS PROJECT  PUBLICATIONS Journal Papers   Chuang Yang, Zhi Xiong, Jianye Liu, et al. Brain-inspired metric navigation in large-scale 3D environments based on model of multi-scale grid cells[J]. IEEE Transactions on Cognitive and Developmental Systems. (2020-08, Under review). Video
+  Chuang Yang, Jianye Liu, Zhi Xiong, et al. Brain-inspired vector navigation method based on model of multi-scale grid cells[J]. Journal of Chinese Inertial Technology, 2020, 28(02):179-185.</description>
+    </item>
+    
+    <item>
+      <title>VIDEOS</title>
+      <link>https://neumorswarm.github.io/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://neumorswarm.github.io/videos/</guid>
+      <description>SOME RESULTS ABOUT THE PROJECT  3D Path Integration of Multi-scale Grid Cells Vector Navigation Modle Based on CANN of Multi-scale Grid Cells (More info) Self-Organization and Collective Behavior in CANN of Grid Cells Simulation of Self-organizing Collective Flying of 50 Drones based on Vasarhelyi’s Swarm Algorithm  </description>
+    </item>
+    
+  </channel>
+</rss>

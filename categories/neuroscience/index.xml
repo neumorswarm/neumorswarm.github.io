@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neuroscience on NeuromorphicSWARM Project | for Collective Robots</title>
+    <link>https://neumorswarm.github.io/categories/neuroscience/</link>
+    <description>Recent content in Neuroscience on NeuromorphicSWARM Project | for Collective Robots</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neumorswarm.github.io/categories/neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How the brain encodes the spatial position of others ?</title>
+      <link>https://neumorswarm.github.io/blog/2020/11/03/brain-encodes-others/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neumorswarm.github.io/blog/2020/11/03/brain-encodes-others/</guid>
+      <description>SOCIAL PLACE CELLS For social animals, such as bats and rats, tracking the position of a conspecific is important for social interactions such as observational learning. Much previous research has described how hippocampal place cells encode one&amp;rsquo;s own spatial location; however, the neuronal basis for encoding the position of another is unknown. Two new papers(Danjo et al., Omer et al.) identify so-called social place cells : neurons in the dorsal CA1 region (dCA1) of the hippocampus in bats and in rats that encode the position of an observed conspecific.</description>
+    </item>
+    
+  </channel>
+</rss>
